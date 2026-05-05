@@ -16,7 +16,7 @@ Video games:
 * Ubisoft Game Lab - **Cassini M**: [github](https://github.com/AdamFarahat/UbisoftGameLabs) | [itch](https://psycho36.itch.io/cassini-m)
 * McGameJam 2026 - **Single Mom in Your Area**: [github](github.com/RyanDeBarros/McGameJam2026) | [itch](https://esmely11.itch.io/single-mom-in-your-area)
 * **Tides of the Horde** (term project): [github](https://github.com/RyanDeBarros/Tides-of-the-Horde/) | [itch](https://ryandebarros.itch.io/tides-of-the-horde)
-* **Riseward** (GameDev.tv game jam): [github](https://github.com/RyanDeBarros/Riseward) | [itch](https://ryandebarros.itch.io/riseward)
+* GameDev.tv 2024 game jam - **Riseward**: [github](https://github.com/RyanDeBarros/Riseward) | [itch](https://ryandebarros.itch.io/riseward)
 * **Space Raiders** (personal project): [github](https://github.com/RyanDeBarros/Space-Raiders) | [itch](https://ryandebarros.itch.io/space-raiders)
 * **Rune Crusher** (school assignment): [github](https://github.com/RyanDeBarros/Rune-Crusher)
 
