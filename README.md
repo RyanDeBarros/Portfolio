@@ -5,12 +5,16 @@ Social links:
 Game engine:
 * [Olympian](https://github.com/RyanDeBarros/Olympian/)
 
+Scripting language interpreter:
+* [Lexico](https://github.com/RyanDeBarros/Lexico/)
+
 Video games:
-* [Ubisoft GameLab 2026](https://github.com/AdamFarahat/UbisoftGameLabs)
-* **Tides of the Horde** (term project): [GitHub](https://github.com/RyanDeBarros/Tides-of-the-Horde/), [Itch](https://ryandebarros.itch.io/tides-of-the-horde)
-* **Riseward** (GameDev.tv game jam): [GitHub](https://github.com/RyanDeBarros/Riseward), [Itch](https://ryandebarros.itch.io/riseward)
-* **Space Raiders** (personal project): [GitHub](https://github.com/RyanDeBarros/Space-Raiders), [Itch](https://ryandebarros.itch.io/space-raiders)
-* [Rune Crusher (school assignment)](https://github.com/RyanDeBarros/Rune-Crusher)
+* Ubisoft Game Lab - **Cassini M**: [github](https://github.com/AdamFarahat/UbisoftGameLabs) | [itch](https://psycho36.itch.io/cassini-m)
+* McGameJam 2026 - **Single Mom in Your Area**: [github](github.com/RyanDeBarros/McGameJam2026) | [itch](https://esmely11.itch.io/single-mom-in-your-area)
+* **Tides of the Horde** (term project): [github](https://github.com/RyanDeBarros/Tides-of-the-Horde/) | [itch](https://ryandebarros.itch.io/tides-of-the-horde)
+* **Riseward** (GameDev.tv game jam): [github](https://github.com/RyanDeBarros/Riseward) | [itch](https://ryandebarros.itch.io/riseward)
+* **Space Raiders** (personal project): [github](https://github.com/RyanDeBarros/Space-Raiders) | [itch](https://ryandebarros.itch.io/space-raiders)
+* **Rune Crusher** (school assignment): [github](https://github.com/RyanDeBarros/Rune-Crusher)
 
 Advent of Code:
 * [2025](https://github.com/RyanDeBarros/Advent-of-Code-2025)
