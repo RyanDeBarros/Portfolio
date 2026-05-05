@@ -1,5 +1,7 @@
 # Portfolio
 
+Resume hosted [here](https://ryandebarros.github.io/Portfolio/)
+
 Social links:
 * [Itch page](https://ryandebarros.itch.io/)
 * [LinkedIn](https://www.linkedin.com/in/ryan-de-barros/)
