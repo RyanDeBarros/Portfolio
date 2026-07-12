@@ -4,6 +4,7 @@ Resume hosted [here](https://ryandebarros.github.io/Portfolio/)
 
 Social links:
 * [Itch page](https://ryandebarros.itch.io/)
+* [Hitmarker](https://hitmarker.net/ryan2004db)
 * [LinkedIn](https://www.linkedin.com/in/ryan-de-barros/)
 
 Game engine:
