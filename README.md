@@ -22,6 +22,9 @@ Video games:
 * **Space Raiders** (personal project): [github](https://github.com/RyanDeBarros/Space-Raiders) | [itch](https://ryandebarros.itch.io/space-raiders)
 * **Rune Crusher** (school assignment): [github](https://github.com/RyanDeBarros/Rune-Crusher)
 
+Mesh processing:
+* [Geo Repair](https://github.com/RyanDeBarros/GeoRepair)
+
 Advent of Code:
 * [2025](https://github.com/RyanDeBarros/Advent-of-Code-2025)
 * [2024](https://github.com/RyanDeBarros/advent-of-code-2024)
