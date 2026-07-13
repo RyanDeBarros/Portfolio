@@ -20,7 +20,6 @@ Video games:
 * GameDev.tv 2026 game jam - **Bubble Me Home**: [github](https://github.com/AdamFarahat/GameDevTVJam) | [itch](https://psycho36.itch.io/bubble-me-home)
 * GameDev.tv 2024 game jam - **Riseward**: [github](https://github.com/RyanDeBarros/Riseward) | [itch](https://ryandebarros.itch.io/riseward)
 * **Space Raiders** (personal project): [github](https://github.com/RyanDeBarros/Space-Raiders) | [itch](https://ryandebarros.itch.io/space-raiders)
-* **Rune Crusher** (school assignment): [github](https://github.com/RyanDeBarros/Rune-Crusher)
 
 Mesh processing:
 * [Geo Repair](https://github.com/RyanDeBarros/GeoRepair)
@@ -29,3 +28,7 @@ Advent of Code:
 * [2025](https://github.com/RyanDeBarros/Advent-of-Code-2025)
 * [2024](https://github.com/RyanDeBarros/advent-of-code-2024)
 * [2023](https://github.com/RyanDeBarros/Advent-Of-Code-2023)
+
+Other school projects:
+* [FitoTrack Android app extension](https://codeberg.org/RyanDeBarros/FitoTrackCycling)
+* [Rune Crusher game](https://github.com/RyanDeBarros/Rune-Crusher)
