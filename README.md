@@ -23,6 +23,7 @@ Video games:
 
 Mesh processing:
 * [Geo Repair](https://github.com/RyanDeBarros/GeoRepair)
+* [Laplacian Deformation Tool](https://github.com/RyanDeBarros/laplacian-deformation)
 
 Advent of Code:
 * [2025](https://github.com/RyanDeBarros/Advent-of-Code-2025)
