@@ -1,6 +1,6 @@
 # Portfolio
 
-Resume hosted [here](https://ryandebarros.github.io/Portfolio/)
+Resume hosted [here](https://ryandebarros.github.io/Portfolio/). For other projects not listed here, please refer to my public repositories page here on GitHub.
 
 Social links:
 * [Itch page](https://ryandebarros.itch.io/)
